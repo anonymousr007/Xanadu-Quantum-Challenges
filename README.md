@@ -1,1 +1,1 @@
-# Xanadu-Quantum-Challenges
+# Xanadu Quantum Challenges
